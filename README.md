@@ -22,9 +22,9 @@ area,major axis length,minor axis length,eccentricity,convex area,extent,perimet
 
 8.Finally, call the functions confusion_matrix(), and the classification_report() in order to evaluate the performance of our classifier.
 ## Program:
-Develped by:Chevula.Nagadurga
+Develped by:Chintha.Nagajyothi
 
-Regno:212221230014
+Regno:212221230015
 
 ```
 import pandas as pd
